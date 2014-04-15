@@ -49,3 +49,19 @@
 - المترجم - توليد الكود (Compiler II: Code Generation)
 - انظمه التشغيل (Operating System)
 - ابدأ بنفسك واطلق تطبيقاتك
+
+
+
+نظرة حول لغات البرمجة 
+=====================
+اذا كانت لديك اي خلفية مسبقة باي من لغات البرمجة .. اذا فربما تكون قد واجهت برنامج مثل هذا البرنامج في اي من الفصول
+التعليمية ... هذا البرنامج مكتوب بلغة الجافا
+
+
+```
+class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Display the string.
+    }
+}
+```
