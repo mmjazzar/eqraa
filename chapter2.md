@@ -35,5 +35,5 @@ All IC chips based on Logic Gates
 
 مصادر
 ------
-http://vb1.alwazer.com/t60094.html
-http://www.uob-bh.com/forum/showthread.php?t=17566&page=3&s=9dc54924d42b0fbe894fe2ca07262843
+- http://vb1.alwazer.com/t60094.html
+- http://www.uob-bh.com/forum/showthread.php?t=17566&page=3&s=9dc54924d42b0fbe894fe2ca07262843
