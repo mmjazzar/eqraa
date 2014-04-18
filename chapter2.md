@@ -62,10 +62,38 @@ All IC chips based on Logic Gates
 
 ![Bilby Stampede](http://computer.atlas4e.com/Project_E1/Project/chapter04/03.gif)
 
-التمثيل كانونيكال (Canonical Representation)
+###لتمثيل كانونيكال (Canonical Representation)
 ------
 
+```
+every Boolean function can be expressed using at least one Boolean expression called canonical representation
+. Starting with the function’s truth table, we focus on all the rows for which the function has value 1. For each such row, we construct a term created by And -ing together literals (variables or their negations) that fix the values of all the row’s inputs. 
+```
 
+يمكن تمثيل اي دوال منطقية عن طريق متغير  س او ص او ع طبقا لتمثيل كانونيكال طبقا لما يلي :-
+- تحديد الصفوف التي قيمه النتيجة لها تساوي الواحد
+- لكل صف ننشأ متغير ع يحدد قيم المدخلات س او ص
+
+
+####مثال توضيحي 
+------
+| س        | ص          | ع  | ن |
+| --: |--:| --:| --:|
+| 0 |0 | 0 | 0|
+| 1 |0 | 0 | 0|
+| 0 |1 | 0 | 0|
+| 1 |1 | 0 | 0|
+| 0 |0 | 1 | 0|
+| 1 |0 | 1 | 0|
+| 0 |1 | 1 | 0|
+| 1 |1 | 1 | 0|
+| 0 |0 | 0 | 0|
+| 0 |0 | 0 | 0|
+| 0 |0 | 0 | 0|
+
+```
+som of products and product of sums
+```
 
 مصادر
 ------
