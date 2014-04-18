@@ -40,13 +40,35 @@ All IC chips based on Logic Gates
  لوصف العمليات المنطقية تستخدم عادة جداول تسمى جداول الحقيقة Truth tables حيث تحتوي على كل الحالات التي تقع فيها المتغيرات وعلى ناتج العملية لكل حالة. من السهل ملاحظة أنه إذا كان عدد المتغيرات يساويn  فإن عدد الحالات الممكنة هي
  
  
- 
-    ![logo](https://github.com/libgit2/libgit2sharp/raw/master/square-logo.png)
+####العمليات  الأساسية
+-------
+  	
+1. عملية "و" (AND Operation).
+2. عملية "أو" (OR Operation).
+3. عملية "لا" (NOT Operation).
+
+تسمى العمليتان الأولى والثانية عمليتان ثنائيتان  (Binary Operations)لأن كلاً منها تحتاج إلى متغيرين على الأقل، بينما تسمى عملية NOT "لا" عملية أحادية (Unary) لأن لها متغيرًا واحداً أو مدخلاً واحداً فقط، ويمكن استخدام الإشارات الجبرية التالية لتمثيل العمليات الأساسية. مع الافتراض أن المتغيرات هي Y،X.
+
+
+هذا ويمكن وصف العمليتين "و"، "أو" بأكثر من متغيرين ولكننا في معظم الحالات سنتكلم عنهما مستخدمين فقط متغيرين للتسهيل ليس إلا. وبالتعبير عن هذه العمليات بالنظام الثنائي "باعتبار أن الرقم "1" يمثل الحالة الصحيحة والرقم "0" يمثل الحالة الخاطئة فيمكن تعريف هذه العمليات كما يلي:
 
 
  
+
+![Bilby Stampede](http://computer.atlas4e.com/Project_E1/Project/chapter04/02.gif)
+
+  كما هو واضح من التعريف فإن :
+  
+
+![Bilby Stampede](http://computer.atlas4e.com/Project_E1/Project/chapter04/03.gif)
+
+التمثيل كانونيكال (Canonical Representation)
+------
+
+
 
 مصادر
 ------
 - http://vb1.alwazer.com/t60094.html
 - http://www.uob-bh.com/forum/showthread.php?t=17566&page=3&s=9dc54924d42b0fbe894fe2ca07262843
+- http://computer.atlas4e.com/Project_E1/Project/chapter04/chapter04.htm
