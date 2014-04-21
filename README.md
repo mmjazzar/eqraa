@@ -26,6 +26,7 @@
 - التصميم المنطقي (Sequential Logic)
 - لغة الآله (Machine Language)
 - عماره الحاسب (Computer Architecture)
+- المعالج متعدد الأغراض (ASIP(ApplicationSpecificInstruction-setProcessors) Design)
 - لغة التجميع (Assembler)
 - الخوارزميات (Algorithms)
 - الجهاز الافتراضي - المكدسه الحسابيه (VM I: Stack Arithmetic)
