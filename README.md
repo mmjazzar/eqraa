@@ -20,10 +20,10 @@
 
 يتكون الكتاب من جزئين جزء خاص بالهارد وير (hardware)
 والجزء الاخر خاص بالبرمجيات (software)
-- مقدمه عامه
-- الجبر المنطقي (Boolean Logic)
-- الجبر الحسابي (Boolean Arithmetic)
-- التصميم المنطقي (Sequential Logic)
+* مقدمه عامه
+* الجبر المنطقي (Boolean Logic)
+* الجبر الحسابي (Boolean Arithmetic)
+* التصميم المنطقي (Sequential Logic)
 - لغة الآله (Machine Language)
 - عماره الحاسب (Computer Architecture)
 - المعالج متعدد الأغراض (ASIP(ApplicationSpecificInstruction-setProcessors) Design)
