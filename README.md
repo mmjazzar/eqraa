@@ -20,8 +20,8 @@
 
 يتكون الكتاب من جزئين جزء خاص بالهارد وير (hardware)
 والجزء الاخر خاص بالبرمجيات (software)
-* مقدمه عامه
-* الجبر المنطقي (Boolean Logic)
+li مقدمه عامه
+li الجبر المنطقي (Boolean Logic)
 * الجبر الحسابي (Boolean Arithmetic)
 * التصميم المنطقي (Sequential Logic)
 - لغة الآله (Machine Language)
